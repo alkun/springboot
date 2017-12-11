@@ -10,7 +10,7 @@ public class Example {
 
     @RequestMapping("/")
     String home() {
-        return "Hello World!";
+        return "Hello World!This is sample Rest Controller! Many more to come...";
     }
 
     public static void main(String[] args) throws Exception {
